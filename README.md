@@ -1,2 +1,1 @@
-# vibe-coding-sentiment
- "Vibe Coding" Sentiment Analysis on Stack Overflow
+# Vibe Coding Sentiment Analysis
